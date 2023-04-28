@@ -1,3 +1,3 @@
-Codecademy Python Practice
+# Codecademy Python Practice
 
 if, elif, else
